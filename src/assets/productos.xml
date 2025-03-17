@@ -1,0 +1,31 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<productos>
+    <producto>
+        <id>1</id>
+        <nombre>Placa madre</nombre>
+        <precio>2000</precio>
+        <cantidad>10</cantidad>
+        <imagen>assets/img/camisa.jpg</imagen>
+    </producto>
+    <producto>
+        <id>2</id>
+        <nombre>Gabinete</nombre>
+        <precio>1500</precio>
+        <cantidad>15</cantidad>
+        <imagen>assets/img/pantalon.jpg</imagen>
+    </producto>
+    <producto>
+        <id>3</id>
+        <nombre>Procesador</nombre>
+        <precio>3000</precio>
+        <cantidad>5</cantidad>
+        <imagen>assets/img/zapatillas.jpg</imagen>
+    </producto>
+    <producto>
+        <id>4</id>
+        <nombre>Grafica</nombre>
+        <precio>15000</precio>
+        <cantidad>8</cantidad>
+        <imagen>assets/img/sueter.jpg</imagen>
+    </producto>
+</productos>
